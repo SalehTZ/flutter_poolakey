@@ -54,11 +54,13 @@ the [app](https://github.com/cafebazaar/flutter_poolakey/tree/master/example) mo
 
 #### flutter_poolakey is a wrapper around [Poolakey](https://github.com/cafebazaar/Poolakey) to use in Flutter.
 
+For additional help, please refer to the [wiki](https://github.com/cafebazaar/flutter_poolakey/wiki) or file an issue on GitHub.
 > [Poolakey](https://github.com/cafebazaar/Poolakey) is an Android In-App Billing SDK
 > for [Cafe Bazaar](https://cafebazaar.ir/?l=en) App Store.
 
 
 ## Important Configuration Notes
+If you face any issues consider doing these:
 
 1. **JitPack Repository**
    Use the following syntax for JitPack repository in your `build.gradle`:
@@ -107,4 +109,3 @@ If you encounter build issues, please verify:
 - Your project's Gradle version is compatible with the Android Gradle Plugin
 - You have Java 11 or later installed and properly configured in your environment
 
-For additional help, please refer to the [wiki](https://github.com/cafebazaar/flutter_poolakey/wiki) or file an issue on GitHub.
